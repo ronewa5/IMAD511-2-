@@ -1,2 +1,14 @@
 # IMAD511-2-
 Assignment(1)
+ 
+My App defines a list of famous people and what age they passed away (eg, “Mongezi passed away at the age of 31. The aim is to show the logic to match the age of this famous person history. The purpose of the app is created to provide software that can reason on input and explain on output. This app provides human interaction with software and offer decision support a specific task. This app is tool to students, depending on how it is developed and used. This app can help improve access to education healthcare, it will benefit every student who is willing to use the little knowledge the app has.
+The stage of this app is understanding Data preparation. A software application that uses my app to perform specific tasks and solve problems. Azure labs services and Android studio are the website that built the app. “Azure Labs Services enables you to create labs with infrastructure managed by azure. The service handles all the infrastructure management, from spinning up virtual machines (VMs) to handling errors and scaling the infrastructure. For 
+example, configure labs for specific class types, such as data science or general programming, and quickly assign lab users their dedicated lab virtual machine”. 
+Android studio helps you improve the performance of your code. It offers developers more room for it, its advanced development tools like a highly flexible Gradle system.
+The app is very easy to use and fun at the sometime. To make the interface I used Android studio to structure the app, components in the app I used text view and button and different types of fonts to make presentable and professional. I even added an image as a background. Then the instructions on the app I used Azure Labs 
+“Android studio is the official integrated Development Environment (IDE) for android app development.”  Features of Android studio: Grandle, Debug, Fast Emulator, android studio project structure, Data and NDK 
+ 
+    https://swisherpost.co.za/news/watch-mpura-killer-kau-hadebe-car-wrecked-video/
+My history app features have an empty number to fill in the famous person age then click Generate to proceed forward and Clear to go back it cancels what you entered. If you chose to procced then the app will Show Results. You can at least enter 10 famous people of your type between the age of 20 to 100 people.
+The interface has a heading “My History App” an option to enter the Age of that chosen famous person. The interface has a image in middle of the App of the list I entered then comes the Generate button next it is Clear button underneath at the end of the interface there’s a Show Results only if you Generated the age of the famous person. The whole entire interface the background is orange.
+Tested my Debug on Azure labs Services where I instructed my app to operate and I checked my errors they were okay 0 errors I made sure then my emulator ran successfully
